@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "677066262737",
+    "firebase_url": "https://basedatosha-default-rtdb.firebaseio.com",
+    "project_id": "basedatosha",
+    "storage_bucket": "basedatosha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677066262737:android:c212eff222d57faf305df0",
+        "android_client_info": {
+          "package_name": "com.example.hoteles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677066262737-ouif3j08ieltt98phn03ep1v440di4aa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5VAZi_YvElG4fQJC-sgpxIUqQZFcqQQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677066262737-ouif3j08ieltt98phn03ep1v440di4aa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
